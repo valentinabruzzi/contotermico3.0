@@ -4,4 +4,4 @@ Frontend statico del simulatore Conto Termico 3.0 (Arquati).
 
 ## Note
 - Questo deploy su GitHub Pages pubblica solo l'interfaccia.
-- Le API  richiedono un backend separato online.
+- Le API `/api/public/*` richiedono un backend separato online.
